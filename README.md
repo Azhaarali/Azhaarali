@@ -10,19 +10,14 @@
 </div>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **C++**
-- 🌱 I’m currently learning **Machine Learning, AI, Advanced JavaScript, and React Techniques**
-- 👯 I’m looking to collaborate on **Web Development Projects, Automation, Open Source Projects**
-- 💬 Ask me about **DevOps, Python, JavaScript,**
-- 📫 How to reach me: **aliazhar999111@gmail.com**
+- 🔭 I’m currently a college **Student**
+- 🌱 I’m currently learning **C++**
+- 💬 Ask me about **Object Oriented Programmings**
+- 📫 Get me here : **aliazhar999111@gmail.com**
 
 ### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![discord](https://img.shields.io/badge/-discord-61DAFB?style=flat-square&logo=discord&logoColor=black)
 ![youtube](https://img.shields.io/badge/-youtube-232F3E?style=flat-square&logo=youtube)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-<!-- Add more as needed -->
 
 ### 📈 GitHub Stats
 <div align="left">
@@ -48,8 +43,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
 
-
-
-
-### 📚 Project Showcase
 <!-- Add links and images to your most impressive projects -->

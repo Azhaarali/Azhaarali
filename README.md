@@ -10,9 +10,8 @@
 </div>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently a college **Student**
-- 🌱 I’m currently learning **C++**
-- 💬 Ask me about **Object Oriented Programmings**
+- 🔭 I am a college **Student**
+- 🌱 I am learning **C++**
 - 📫 Get me here : **aliazhar999111@gmail.com**
 
 ### 🛠 Tech Stack
